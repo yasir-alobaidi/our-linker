@@ -1,7 +1,9 @@
 # Linker
-## A project looking forward to make it true 
+
+## A project looking forward to make it true
 
 ### To install the app dependencies
+
 ```
 cd linker
 npm install

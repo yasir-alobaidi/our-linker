@@ -12,7 +12,7 @@ npm install
 ### To run the application on the dev mode:
 
 ```
-npm run dev
+npm start
 ```
 
 
